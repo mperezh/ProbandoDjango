@@ -6,4 +6,4 @@ def index(request):
 
 
 def contact(request):
-    return render(request, 'personal/basic.html', {'content': ['If you would like to contact me, please email me', 'manuelph14@gmail.com']})
+    return render(request, 'personal/basic.html', {'content': ['If you would like to contact me, please email me', 'maphworks@gmail.com']})
